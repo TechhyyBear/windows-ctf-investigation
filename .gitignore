@@ -1,0 +1,20 @@
+# No local VM images, exploit artifacts, personal or secret material
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+*.vbox
+*.vbox-prev
+*.pcap
+*.pcapng
+*.key
+*.pem
+*.p12
+*.zip
+*.mp4
+*.save
+*.bak
+.env
+.env.*
+screenshots/raw/
+evidence/raw/
